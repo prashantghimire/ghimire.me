@@ -91,7 +91,7 @@ skills:
   title: Skills &amp; Proficiency
   toolset:
     - name: Front End Development
-      level: 95%
+      level: 90%
 
     - name: Backend Development
       level: 90%
@@ -100,10 +100,10 @@ skills:
       level: 90%
 
     - name: Mobile Application Development
-      level: 90%
+      level: 80%
 
     - name: UX Design and Development
-      level: 60%
+      level: 50%
 
 footer: >
-  &copy; 2020 Prashant Ghimire
+  &copy; 2021 Prashant Ghimire
